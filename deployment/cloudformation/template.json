@@ -37,7 +37,7 @@
         },
         "Description": "",
         "EnvironmentName": "nho-jenkins",
-        "SolutionStackName": "64bit Amazon Linux 2018.03 v2.12.6 running Docker 18.06.1-ce",
+        "SolutionStackName": "64bit Amazon Linux 2018.03 v2.12.16 running Docker 18.06.1-ce",
         "OptionSettings": [
           {
             "Namespace": "aws:elasticbeanstalk:environment",
@@ -47,7 +47,7 @@
           {
             "Namespace": "aws:autoscaling:launchconfiguration",
             "OptionName": "InstanceType",
-            "Value": "t2.small"
+            "Value": "t2.medium"
           },
           {
             "Namespace": "aws:autoscaling:launchconfiguration",
