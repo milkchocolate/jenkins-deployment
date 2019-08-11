@@ -47,7 +47,7 @@
           {
             "Namespace": "aws:autoscaling:launchconfiguration",
             "OptionName": "InstanceType",
-            "Value": "t2.medium"
+            "Value": "t2.large"
           },
           {
             "Namespace": "aws:autoscaling:launchconfiguration",

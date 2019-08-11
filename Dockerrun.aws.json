@@ -16,6 +16,10 @@
     {
       "HostDirectory": "/root/.gradle",
       "ContainerDirectory": "/root/.gradle"
+    },
+    {
+      "HostDirectory": "/root/.m2",
+      "ContainerDirectory": "/root/.m2"
     }
   ]
 }
