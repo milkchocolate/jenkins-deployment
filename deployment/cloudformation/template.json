@@ -58,6 +58,11 @@
             "Namespace": "aws:autoscaling:launchconfiguration",
             "OptionName": "IamInstanceProfile",
             "Value": "JekninsInstanceProfile"
+          },
+          {
+            "Namespace": "aws:elasticbeanstalk:command",
+            "OptionName": "Timeout",
+            "Value": "3600"
           }
         ],
         "VersionLabel": {
